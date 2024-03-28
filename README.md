@@ -9,6 +9,6 @@ We created this program to pull that off: https://ruhralfarms.com/red-dirt-cowor
 While it's underfunded to roll out, this web app and application can be setup for any land owners looking to funding collaborative efforts on your property.
 
 
-![Home Page](public/screenshot-home.png)
-![Applicants Select their initiatives](public/screenshot-initiatives.png)
-![Counselors offer support](public/screenshot-counselors.png)
+![Home Page](public/images/screenshot-home.png)
+![Applicants Select their initiatives](public/images/screenshot-initiatives.png)
+![Counselors offer support](public/images/screenshot-counselors.png)
